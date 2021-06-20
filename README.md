@@ -1,3 +1,6 @@
+This app is created with help of react js and redux.I have created sign in page in which you have to do google sign in,after that you cn capture your image and also store it .
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
